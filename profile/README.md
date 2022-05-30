@@ -1,4 +1,8 @@
 # Urr3 Drehem Knowledge Graph
 
-## Developed as a part of Dr. Yudong Liu research lab (https://cs.wwu.edu/liuy2)
+## Purpose 
+
+Represent Urr3 Drehem data as a knowledge graph for prosophological studies
+
+##From Dr. Yudong Liu's research lab (https://cs.wwu.edu/liuy2)
 
