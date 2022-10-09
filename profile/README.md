@@ -7,6 +7,7 @@ In addition, our tools can be leveraged to create applications that aid in the r
 
 ## About Us 
 Dr. Yudong Liu (https://cs.wwu.edu/liuy2) </br>
+Dr. Changyu Liu (https://zjnu.academia.edu/ChangyuLiu) </br>
 Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 
