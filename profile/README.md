@@ -1,6 +1,7 @@
 # WWU Sumerian NLP
 
 ## Purpose 
+We build tools to aid in the processing and analysis of ancient Sumerian tablets. 
 
 we have built a no-code dashboard that utilizes our open source libraries to let Assyriologists automate their workflow.
 
@@ -9,7 +10,9 @@ We demonstrate how our libraries and dashboard can be used to create knowledge g
 
 Tools for processing sumerian cuniform tablets in golang and representing data as a knowledge graph for prosophological studies
 
-## From Dr. Yudong Liu's research lab (https://cs.wwu.edu/liuy2)
+## About Us 
+From Dr. Yudong Liu's research lab (https://cs.wwu.edu/liuy2)
+Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 
 - Sumerian_NLP_go 
