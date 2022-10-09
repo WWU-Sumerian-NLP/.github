@@ -12,7 +12,7 @@ Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 ## Repositories
 
-- [Sumerian_NLP_go](https://github.com/WWU-Sumerian-NLP/Sumerian_NLP_go) - These our NLP libraries.
+- [Sumerian_NLP_go](https://github.com/WWU-Sumerian-NLP/Sumerian_NLP_go) - These our NLP libraries, some modules include entity and relation extraction.
 
 - [Sumerian_KG_python](https://github.com/WWU-Sumerian-NLP/Sumerian_KG_python) - This is our API that takes data generated from our NLP libraries to create a knowledge graph and store it in Neo4j. 
 
