@@ -14,13 +14,13 @@ Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 - [Sumerian_NLP_go](https://github.com/WWU-Sumerian-NLP/Sumerian_NLP_go) - These our NLP libraries.
 
-- [Sumerian_KG_python] (https://github.com/WWU-Sumerian-NLP/Sumerian_KG_python) - This is our API that takes data generated from our NLP libraries to create a knowledge graph and store it in Neo4j. 
+- [Sumerian_KG_python](https://github.com/WWU-Sumerian-NLP/Sumerian_KG_python) - This is our API that takes data generated from our NLP libraries to create a knowledge graph and store it in Neo4j. 
 
 - [Server_go](https://github.com/WWU-Sumerian-NLP/Server_go) - This is our server that handles interactions between our dashboard, NLP libaries and other APIs. 
 
 - [Nocode_dashboard_react](https://github.com/WWU-Sumerian-NLP/Nocode_dashboard_react) - This is our no-code dashboard.
 
-- [Neo4jgraph_visualization_react] (https://github.com/WWU-Sumerian-NLP/Neo4jgraph_visualization_react) - This is an early prototype of a graph visualization for sumerian knowledge graphs.
+- [Neo4jgraph_visualization_react](https://github.com/WWU-Sumerian-NLP/Neo4jgraph_visualization_react) - This is an early prototype of a graph visualization for sumerian knowledge graphs.
 
 ## Architecture 
 
