@@ -24,7 +24,7 @@ Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 ## Architecture 
 
-[architecture_main]: https://github.com/WWU-Sumerian-NLP/images/blob/master/complete_arch.png "Logo Title Text 2"
+[architecture_main]: https://github.com/WWU-Sumerian-NLP/images/blob/master/complete_arch.png "General Architecture"
 
 
 
