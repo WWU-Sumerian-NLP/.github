@@ -1,7 +1,7 @@
 # WWU Sumerian NLP
 
 ## Purpose 
-We build tools to aid in the processing and analysis of ancient Sumerian tablets. This is through an NLP library written in Go and a no-code dashboard that serves our tools to non-technical researchers. We are actively developing our tools and are open to to collborations, inputs and integrations. 
+We build tools to aid in the processing and analysis of ancient Sumerian tablets. This is through an NLP library written in Go and a no-code dashboard that serves our tools to non-technical researchers. We are actively developing our tools and are open to request for new integrations.
 
 In addition, our tools can be leveraged to create applications that aid in the research of assyriologists. For example, we've created an application to build knowledge graphs and visualize them in neo4j to aid in prosophological studies
 
