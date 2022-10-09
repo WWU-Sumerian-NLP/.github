@@ -22,9 +22,10 @@ Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 - [Neo4jgraph_visualization_react](https://github.com/WWU-Sumerian-NLP/Neo4jgraph_visualization_react) - This is an early prototype of a graph visualization for sumerian knowledge graphs.
 
-## Architecture 
+## General Architecture 
 
 [architecture_main]: https://github.com/WWU-Sumerian-NLP/images/blob/master/complete_arch.png "General Architecture"
 
+This picture above shows how our no-code dashboard and NLP libraries is leveraged to a create knowledge graphs. 
 
 
