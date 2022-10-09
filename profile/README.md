@@ -11,7 +11,7 @@ We demonstrate how our libraries and dashboard can be used to create knowledge g
 Tools for processing sumerian cuniform tablets in golang and representing data as a knowledge graph for prosophological studies
 
 ## About Us 
-From Dr. Yudong Liu's research lab (https://cs.wwu.edu/liuy2)
+From Dr. Yudong Liu's research lab (https://cs.wwu.edu/liuy2) </br>
 Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 
