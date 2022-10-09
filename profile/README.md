@@ -1,4 +1,4 @@
-# Urr3 Drehem Knowledge Graph
+# WWU Sumerian NLP
 
 ## Purpose 
 
