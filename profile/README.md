@@ -24,8 +24,7 @@ Hansel Guzman-Soto (https://www.linkedin.com/in/hansel-guzman-soto/)
 
 ## General Architecture 
 
-![architecture_main]: https://github.com/WWU-Sumerian-NLP/images/blob/master/complete_arch.png "General Architecture"
+![architecture_main](https://github.com/WWU-Sumerian-NLP/images/blob/master/complete_arch.png) 
 
 This picture above shows how our no-code dashboard and NLP libraries is leveraged to a create knowledge graphs. 
-
 
